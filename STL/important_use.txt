@@ -1,0 +1,44 @@
+*********** SAFE STL PRACTICES ************************
+STL DOESNT DO ERROR HANDLING
+- ITERATOR INVALIDATION RULES
+auto
+decltype
+type deduction
+
+pairs
+tuples
+
+lvalue
+rvalue
+lvalue reference
+rvalue reference
+move semantics
+perfect forwarding
+reference collapsing rules
+
+templates
+typename
+type traits
+
+extern
+constexpr
+inline
+
+lambda functions
+function pointer
+functional header file
+function objects
+callable objects
+binders
+placeholders
+
+iterators
+smart pointers
+reference_wrapper
+iterator types
+
+exception
+noexcept
+
+explicit conversion
+implicit conversion
